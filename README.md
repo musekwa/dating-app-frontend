@@ -11,7 +11,12 @@ are added.
 - saving favorites pictures, deleting desliked pictures, rating pictures;<br>
 - adding additional information about people searching parteners.
 
-## LINK
+## Technologies used:
+- React on fronend hosted<br>
+- Node.js and Express on backend<br>
+- MongoDB Atlas for the NoSQL database<br>
+
+## LINKS
 Frontend on firebase: https://dating-app-mern-61096.web.app/
 Backend on heroku: https://dating-app-backend-2.herokuapp.com/dating/cards
 
