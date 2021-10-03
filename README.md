@@ -1,4 +1,4 @@
-# Dating App Frontend
+# Dating App
 ![image](https://user-images.githubusercontent.com/19254270/135747804-9a552646-aade-4be3-82ff-2ff17a93a393.png)
 
 It's a simple MERN web app. Pictures of people searching parteners for date <br>
