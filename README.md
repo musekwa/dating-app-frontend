@@ -12,7 +12,7 @@ are added.
 - adding additional information about people searching parteners.
 
 ## Technologies used:
-- React on fronend hosted<br>
+- React + Material-UI on fronend hosted<br>
 - Node.js and Express on backend<br>
 - MongoDB Atlas for the NoSQL database<br>
 
