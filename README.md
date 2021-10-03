@@ -13,7 +13,7 @@ are added.
 
 ## Technologies used:
 - React + Material-UI on frontend hosted<br>
-- Node.js and Express on backend<br>
+- Node.js + Express on backend<br>
 - MongoDB Atlas for the NoSQL database<br>
 
 ## LINKS
