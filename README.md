@@ -3,7 +3,7 @@
 
 It's a simple MERN web app. Pictures of people searching parteners for date <br>
 are added.
-- I can swipe to left the picture to see the other pictures behind;<br>
+- I can swipe to right the picture to see the other pictures behind;<br>
 - I can replay to reload the pictures;<br>
 
 ## Todo: The app will be enhanced by adding more functionalities like<br>
